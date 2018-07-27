@@ -14,7 +14,7 @@ static int __init hello_start(void)
 
 static void __exit hello_end(void)
 {
-    printk(KERN_INFO "Goodbye Mr.\n");
+    printk(KERN_INFO "Goodbye\n");
 }
 
 module_init(hello_start);
