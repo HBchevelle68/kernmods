@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-#define MODULE_NAME "rootkit"
+#define MODULE_NAME "serv"
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("HBchevelle68");
